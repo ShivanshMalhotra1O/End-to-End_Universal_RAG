@@ -4,11 +4,6 @@ A production-grade Retrieval Augmented Generation (RAG) agent built with LlamaIn
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon after deployment
-
----
 
 ## 🧠 What Is This?
 
