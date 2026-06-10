@@ -48,4 +48,3 @@ def build_index(config_path: str) -> VectorStoreIndex:
         index.storage_context.persist(persist_dir=storage_path)
         return index
 
-
